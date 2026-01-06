@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryAttack", "dictionary_attack\DictionaryAttack.csproj", "{AD225059-2E76-4D3A-A378-96193BD88FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashcatWrapper", "HashcatWrapper\HashcatWrapper.csproj", "{E7A45C4D-F2EC-4926-A696-1298889581EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAcracker", "RSA\RSAcracker.csproj", "{2482B06D-217A-4612-9386-8A0B5E8F0461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD225059-2E76-4D3A-A378-96193BD88FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD225059-2E76-4D3A-A378-96193BD88FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD225059-2E76-4D3A-A378-96193BD88FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD225059-2E76-4D3A-A378-96193BD88FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A45C4D-F2EC-4926-A696-1298889581EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A45C4D-F2EC-4926-A696-1298889581EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A45C4D-F2EC-4926-A696-1298889581EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A45C4D-F2EC-4926-A696-1298889581EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2482B06D-217A-4612-9386-8A0B5E8F0461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2482B06D-217A-4612-9386-8A0B5E8F0461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2482B06D-217A-4612-9386-8A0B5E8F0461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2482B06D-217A-4612-9386-8A0B5E8F0461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58967F4D-DDDD-4D16-A8B8-95E3714F279B}
+	EndGlobalSection
+EndGlobal
